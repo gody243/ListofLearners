@@ -1,4 +1,4 @@
-To run the App, you need to click on the web page :
+To run the App, you need to click on the web page : https://gody243.github.io/ListofLearners/
 To see the learners details you have to click on its name.
 On the navbar you have the "Add learner" and "Home"
 
